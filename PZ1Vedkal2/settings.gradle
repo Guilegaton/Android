@@ -1,0 +1,2 @@
+include ':app', ':colorselec'
+rootProject.name='PZ1Vedkal2'
